@@ -1,0 +1,15 @@
+{
+  "name": "sass",
+  "version": "1.0.0",
+  "description": "d",
+  "main": "a",
+  "scripts": {
+    "sass": "sass build/style.scss build/styles.css --watch",
+    "test": "d"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.69.4"
+  }
+}
